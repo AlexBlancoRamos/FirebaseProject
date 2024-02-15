@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002177046473",
+    "project_id": "playhub-d078e",
+    "storage_bucket": "playhub-d078e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002177046473:android:41b73ff425e0dbe9cfaa18",
+        "android_client_info": {
+          "package_name": "com.alexblanco.playhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDntcH_replXI8EigoswcqnHFdLiwr90RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
